@@ -1309,6 +1309,11 @@
 - [Hugging Face](https://huggingface.co/)  
    The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
 
+- [Expify](https://www.expify.ai)
+  A comprehensive AI tools and discovery directory - [GitHub](https://github.com/kherona/expify.ai)
+
+
+
 ---
 
 ## Contribution
@@ -1327,4 +1332,3 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
 
-- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
