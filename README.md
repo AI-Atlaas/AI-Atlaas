@@ -1330,6 +1330,11 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Hugging Face](https://huggingface.co/)  
    The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
 
+- [Expify](https://www.expify.ai)
+  A comprehensive AI tools and discovery directory - [GitHub](https://github.com/kherona/expify.ai)
+
+
+
 ---
 
 ## Contribution
@@ -1347,3 +1352,4 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 ---
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
+
