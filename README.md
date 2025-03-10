@@ -180,6 +180,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Zonos](https://github.com/Zyphra/Zonos)   
    Zonos is a text-to-speech system that uses a large language model to generate speech from text. [Website](https://playground.zyphra.com/)
 
+- [Moonshine](https://github.com/usefulsensors/moonshine)  
+   Fast and accurate automatic speech recognition (ASR) for edge devices.
+
 ---
 ### 🎙️ Audio Generation
 
@@ -957,6 +960,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Raycast-G4F](https://github.com/XInTheDark/raycast-g4f/)  
    Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
+
+- [Meta Agent](https://github.com/Jeomon/Meta-Agent-with-More-Agents)  
+   The purpose of the "Meta Agent with More Agents" project is to dynamically solve complex queries by breaking them down into smaller tasks and assigning each to specialized AI agents. The Meta Agent coordinates the process, leveraging a ReAct Agent for tool-based tasks and a Chain of Thought Agent for reasoning-based tasks. The system's flexibility.
 
 ---
 
