@@ -1085,6 +1085,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [golem](https://www.golem.network)  
    Golem Network is an open-source and decentralized platform where everyone can use and share each other's computing power without relying on centralized entities like cloud computing corporations.
 
+- [AgiBot X1](https://github.com/AgibotTech/agibot_x1_train)  
+   AgiBot X1 is a modular humanoid robot with high dof developed and open-sourced by AgiBot. It is built upon AgiBot's open-source framework AimRT as middleware and using reinforcement learning for locomotion control.
+
 ---
 
 ### 🎮 Game & Entertainment
@@ -1204,6 +1207,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [OmniAI](https://getomni.ai)  
    Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.
+
+- [CrewAI](https://www.crewai.com)  
+   Streamline workflows across industries with powerful AI agents. Build and deploy automated workflows using any LLM and cloud platform.
+
+- [SKYVERN](https://www.skyvern.com)  
+   Skyvern helps companies automate browser based workflows using LLMs and Computer Vision, fully automating manual workflows and replacing brittle or unreliable scripts.
 
 ---
 
