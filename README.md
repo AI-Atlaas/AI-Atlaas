@@ -355,6 +355,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Runway](https://runwayml.com)  
    Runway is an applied research company building the next era of art, entertainment and human creativity.
 
+- [Kling AI](https://www.klingai.com)  
+   KLING AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -1334,6 +1337,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Open Canvas](https://opencanvas.langchain.com/)  
    Open Canvas Chat by LangChain.
+
+- [Weavel](https://weavel.ai)  
+   Automate prompt engineering, 50x times faster than humans
 
 ---
 
