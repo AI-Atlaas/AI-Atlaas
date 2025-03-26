@@ -1071,6 +1071,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Deepface](https://github.com/serengil/deepface)  
    A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python.
 
+- [Fast Graphrag](https://github.com/circlemind-ai/fast-graphrag)  
+   Streamlined and promptable Fast GraphRAG framework designed for interpretable, high-precision, agent-driven retrieval workflows.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -1217,6 +1220,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [SKYVERN](https://www.skyvern.com)  
    Skyvern helps companies automate browser based workflows using LLMs and Computer Vision, fully automating manual workflows and replacing brittle or unreliable scripts.
 
+- [Dynamiq](https://www.getdynamiq.ai)  
+   Accelerate GenAI development with Dynamiq's enterprise platform, equipped with a low-code agentic builder, observability, RAG toolbox, LLM deployment, and fine-tuning. Gain full control within your own infrastructure.
+
 ---
 
 ### 🧰 Others
@@ -1340,6 +1346,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Weavel](https://weavel.ai)  
    Automate prompt engineering, 50x times faster than humans
+
+- [I Design](https://atcelen.github.io/I-Design/)  
+   The I-Design system comprises two primary components: Scene Graph Generation and 3D Scene Construction. The Scene Graph Generation component converts the user's textual input into a scene graph representation. This process involves a collaboration among large language model agents engaging in a dialogue with each other.
 
 ---
 
