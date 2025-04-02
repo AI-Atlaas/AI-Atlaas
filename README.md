@@ -389,6 +389,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [SVG.IO](https://svg.io/)  
    Text prompt to SVG in less than 10 seconds.
 
+- [Arcade AI](https://www.tryarcade.co)  
+   Instantly turn sketches and prompts into beautiful 3D & Game assets.
+
 #### Colors
 
 - [Colormind](http://colormind.io/)  
