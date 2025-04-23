@@ -28,15 +28,15 @@ jobs:
       # Copy and transform README to the website repo
       - name: Prepare and copy README
         run: |
-          mkdir -p static_site/src/pages
+          mkdir -p static_site/src
 
           # Add front matter and copy content
-          echo "---" > static_site/src/pages/index.md
-          echo "layout: layout.njk" >> static_site/src/pages/index.md
-          echo "title: AI Atlas" >> static_site/src/pages/index.md
-          echo "---" >> static_site/src/pages/index.md
-          echo "" >> static_site/src/pages/index.md
-          cat README.md >> static_site/src/pages/index.md
+          echo "---" > static_site/src/index.md
+          echo "layout: layout.njk" >> static_site/src/index.md
+          echo "title: AI Atlas" >> static_site/src/index.md
+          echo "---" >> static_site/src/index.md
+          echo "" >> static_site/src/index.md
+          cat README.md >> static_site/src/index.md
 
       # Commit and push changes
       - name: Commit and push
@@ -44,6 +44,6 @@ jobs:
           cd static_site
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/pages/index.md
+          git add src/index.md
           git commit -m "Sync README with layout from AI-Atlaas repo" || echo "No changes to commit"
           git push origin main
