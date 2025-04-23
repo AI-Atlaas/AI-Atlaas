@@ -3,30 +3,47 @@ name: Sync README to Website Repository
 on:
   push:
     branches:
-      - main  
+      - main  # Trigger on changes to the main branch
 
 jobs:
   sync-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository 2
+      # Checkout the source repository (AI-Atlaas/AI-Atlaas)
+      - name: Checkout source repository
         uses: actions/checkout@v2
         with:
           repository: AI-Atlaas/AI-Atlaas
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.AI_SYNC }}
 
-      - name: Copy and rename README to repository 1
-        env:
-          GH_USERNAME: ${{ secrets.GH_USERNAME }}
-          FINE_GRAINED_PAT: ${{ secrets.FINE_GRAINED_PAT }}
+      # Checkout the target repository (static_site)
+      - name: Checkout website repository
+        uses: actions/checkout@v2
+        with:
+          repository: AI-Atlaas/static_site
+          token: ${{ secrets.AI_SYNC }}
+          path: static_site
+
+      # Copy and transform README to the website repo
+      - name: Prepare and copy README
         run: |
-          git clone https://$GH_USERNAME:$FINE_GRAINED_PAT@github.com/AI-Atlaas/ai-atlas-site.git
-          mkdir -p ai-atlas-site/pages/docs
-          cp README.md ai-atlas-site/pages/docs/list.md
-          cd ai-atlas-site
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add pages/docs/list.md  
-          git commit -m "Update README from AI-Atlaas/AI-Atlaas"
-          git push https://$GH_USERNAME:$FINE_GRAINED_PAT@github.com/AI-Atlaas/ai-atlas-site.git
+          mkdir -p static_site/src/pages
+
+          # Add front matter and copy content
+          echo "---" > static_site/src/pages/index.md
+          echo "layout: layout.njk" >> static_site/src/pages/index.md
+          echo "title: AI Atlas" >> static_site/src/pages/index.md
+          echo "---" >> static_site/src/pages/index.md
+          echo "" >> static_site/src/pages/index.md
+          cat README.md >> static_site/src/pages/index.md
+
+      # Commit and push changes
+      - name: Commit and push
+        run: |
+          cd static_site
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/pages/index.md
+          git commit -m "Sync README with layout from AI-Atlaas repo" || echo "No changes to commit"
+          git push origin main
