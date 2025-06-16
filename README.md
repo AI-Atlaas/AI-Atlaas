@@ -1226,6 +1226,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Dynamiq](https://www.getdynamiq.ai)  
    Accelerate GenAI development with Dynamiq's enterprise platform, equipped with a low-code agentic builder, observability, RAG toolbox, LLM deployment, and fine-tuning. Gain full control within your own infrastructure.
 
+- [GPT Researcher](https://gptr.dev/)  
+   GPT Researcher takes care of everything from accurate source gathering to organization of research results with citations.
+
 ---
 
 ### 🧰 Others
