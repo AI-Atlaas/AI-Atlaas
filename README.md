@@ -43,9 +43,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [🎮 Game & Entertainment](#-game--entertainment)
 - [🚙 Automations & Agents](#-automations--agents)
 - [⚙️ AI Tools](#-ai-tools)
+- [Rever MCP Server](https://github.com/chaoui-ahmed/rever-mcp-server) - An open-source Model Context Protocol (MCP) server to extend AI agent capabilities.
 - [🧰 Others](#%F0%9F%A7%B0-others)
 - [📋 Directories & Communities](#-directories--communities)
-
+- [AypiAI](https://aypiai.online) - A comprehensive directory to discover AI agents, MCP servers, and tools.
 <!-- /TOC -->
 
 ## List of Tools
