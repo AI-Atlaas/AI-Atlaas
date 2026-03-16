@@ -339,6 +339,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [invideoAI](https://invideo.io/)  
    Turn any idea into an attention-grabbing video instantly with invideo AI.  
+- [PopcornAI](https://popcornai.art/)  
+   AI video and image generator for creators and marketers, turning prompts and product images into short-form ads, launch visuals, and campaign-ready social content.
 
 - [Typeframes](https://www.typeframes.com/)  
    Create videos for YouTube, Instagram, and TikTok with simple text prompts. Our AI-powered tool transforms text into stunning videos in minutes! Boost engagement, save money, and save time with Typeframes.
