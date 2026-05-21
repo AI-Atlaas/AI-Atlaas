@@ -246,6 +246,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Krea](https://www.krea.ai/home)  
    delightful creative tools with AI inside.
 
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator for garden photos, outdoor layouts, planting ideas, and cost estimates.
+
 - [LetsEnhance](https://letsenhance.io)  
    Get clear, high-res images with AI.
 
