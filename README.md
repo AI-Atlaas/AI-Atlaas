@@ -1114,6 +1114,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Langflow](https://www.langflow.org/)  
    Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
 
+- [XMACNA Funcionarios Digitais](https://xmacna.ai/)
+   AI/IA-powered Funcionarios Digitais for WhatsApp, phone, CRM updates, lead qualification, follow-up, and human handoff.
+
 ---
 
 ### ⚙️ AI Tools
