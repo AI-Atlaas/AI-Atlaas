@@ -513,6 +513,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Vercel AI](https://github.com/vercel/ai)  
    Build AI-powered applications with React, Svelte, Vue, and Solid. 
 
+- [FerryAPI](https://www.ferryapi.io/)  
+   OpenAI-compatible AI API gateway for cost-sensitive production apps, with prepaid usage-based pricing and developer API key management.
+
 - [Builder.ai](https://www.builder.ai/)  
    Created a new category between low-code and custom software to provide flexible, bespoke apps at the speed and cost of an off-the-shelf product.
 
