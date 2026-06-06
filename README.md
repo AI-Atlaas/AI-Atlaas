@@ -228,6 +228,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [getimg.ai](https://getimg.ai/)  
    Easily generate images from text, edit photos with words, expand pictures beyond their borders, train custom AI models and much more.
 
+- [igly.ai](https://igly.ai)  
+   AI image editing platform for background removal, inpainting, upscaling, and generative fill.
+
 - [Ilus AI](https://ilus.ai/)  
    Get beautiful, stylistically consistent illustrations in minutes.
 
@@ -1388,4 +1391,3 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 ---
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
-
