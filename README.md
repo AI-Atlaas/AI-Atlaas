@@ -287,6 +287,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Thumb Zone](https://www.thumbzone.ai)  
    Eliminate the survival bias in your design decisions by looking into user persona, qualitative data, and user interaction.
 
+- [Roblox GUI Maker](https://robloxguimaker.dev/)
+   Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
+
 #### Viedo & Multi-Media
 
 - [Runway](https://runwayml.com/)  
