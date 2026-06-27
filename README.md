@@ -141,6 +141,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
    NoteGPT - YouTube Video Summarizer, PDF Summary, PPT Summary, Image Summaries, and more. Create PPTs, Mindmaps, and Notes with NoteGPT AI. Improve your learning efficiency by 10x.
 
 - [TurboSeek](https://www.turboseek.io)  
+
+- [NoteRich](https://noterich.com)  
+   AI-powered note-taking with built-in RAG search. Import documents, ask questions in natural language, find anything across your notes. 41 languages. Free tier, PRO \$39.90/year.
+
    Search smarter and faster with our open source AI search engine.
 
 ---
