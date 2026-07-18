@@ -147,6 +147,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
    Search smarter and faster with our open source AI search engine.
 
+- [Remio](https://remio.ai/)  
+   Remio is a local-first AI memory and knowledge base desktop app that captures and searches files, webpages, recordings, emails, messages, images, and notes with local indexes and vectors, helping agents retrieve context faster while reducing token use.
 ---
 
 ### 🎧 Text to Speech
