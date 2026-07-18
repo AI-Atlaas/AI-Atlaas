@@ -237,6 +237,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Ilus AI](https://ilus.ai/)  
    Get beautiful, stylistically consistent illustrations in minutes.
 
+- [Illustro](https://illustro.app/)  
+   AI illustration generator and editor with style-specific tools, SVG recoloring, photo-to-illustration, and animation.
+
 - [Omost](https://github.com/lllyasviel/Omost)  
    Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
 
