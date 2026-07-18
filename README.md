@@ -1368,7 +1368,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Expify](https://www.expify.ai)
   A comprehensive AI tools and discovery directory - [GitHub](https://github.com/kherona/expify.ai)
-
+  
+- [AsmiAI](https://asmiai.xyz)
+  Independent AI tools directory with 236 reviewed and ranked AI products, 1,638 side-by-side comparisons, and a free AI-powered tool advisor.
 
 
 ---
