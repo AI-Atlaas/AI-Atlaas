@@ -1145,6 +1145,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Vedic Astrology Chart](https://vedicastrologychart.net)
    Generate a free sidereal birth chart with houses, nakshatras, D9/Navamsa, dashas, divisional charts, and AI-assisted interpretation.
 
+- [Video Upscaler](https://videoupscaler.video)
+   Browser-based AI video enhancer for improving blurry or low-resolution footage and upscaling supported videos to HD or 4K.
+
 - [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)  
    Google AI Studio is a browser-based IDE for prototyping with generative models. Google AI Studio lets you quickly try out models and experiment with different prompts. When you've built something you're happy with, you can export it to code in your preferred programming language, powered by the Gemini API.
 
