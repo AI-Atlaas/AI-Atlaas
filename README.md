@@ -255,6 +255,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Krea](https://www.krea.ai/home)  
    delightful creative tools with AI inside.
 
+- [GPT Image 2](https://gptimage2.asia/)  
+   Generate and edit production-ready AI images for marketing, ecommerce, social media, and branded content.
+
 - [LetsEnhance](https://letsenhance.io)  
    Get clear, high-res images with AI.
 
