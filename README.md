@@ -1139,6 +1139,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)  
    Google AI Studio is a browser-based IDE for prototyping with generative models. Google AI Studio lets you quickly try out models and experiment with different prompts. When you've built something you're happy with, you can export it to code in your preferred programming language, powered by the Gemini API.
 
+- [GPTGeminiGrok.AI](https://trygrokai.asia/)  
+   A browser workspace for GPT, Gemini, Grok, and Claude with integrated AI image generation and API access.
+
 - [ENCORD](https://encord.com/)  
    Encord is the leading data development platform for computer vision & multimodal AI teams. Intelligently manage, clean and curate data, streamline your labeling and workflow management, and evaluate model performance.
 
