@@ -478,6 +478,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Codium](https://www.codium.ai/)  
    With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE or Git platform, so you can code smart and stay confident when you push.
 
+- [Agent QA](https://github.com/vostride/agent-qa)
+   Source-available QA harness for natural-language web and mobile regression tests, with a CLI, dashboard, MCP server, and run memory. Model, browser, or device-provider costs may apply.
+
 - [Aider](https://github.com/paul-gauthier/aider)  
    Aider lets you pair program with LLMs, to edit code in your local git repository.
 
@@ -1408,4 +1411,3 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 ---
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
-
