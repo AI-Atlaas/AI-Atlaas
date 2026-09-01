@@ -1214,6 +1214,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [OpenRouter](https://openrouter.ai)  
    A unified interface for LLMs. Find the best models & prices for your prompts.
 
+- [XiuRouter](https://router.xiu.ai/)
+   Multi-model API service with protocol-specific OpenAI, Anthropic, and Gemini endpoints, scoped keys, and request-level usage and cost records.
+
 - [ultralytics](https://docs.ultralytics.com)  
    YOLO11 is built on cutting-edge advancements in deep learning and computer vision, offering unparalleled performance in terms of speed and accuracy. Its streamlined design makes it suitable for various applications and easily adaptable to different hardware platforms, from edge devices to cloud APIs.
 
