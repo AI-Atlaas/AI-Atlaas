@@ -589,6 +589,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Huntr](https://huntr.co/)  
    Huntr helps you create tailored resumes and cover letters fast with AI, fill out application forms in one click, and automatically organize your job search.
 
+- [ResumeAI](https://withresumeai.com/)  
+   AI resume builder with a free ATS checker (3/day anonymous, 10/day free account) and the open State of ATS 2026 dataset (738 employers, 704 portal-verified; Workday 37.9%). Live leaderboard is paid placement/visibility only — not pay-for-score.
+
 - [bugfree.ai](https://bugfree.ai/)  
    An advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI-powered mock interviews.
 
