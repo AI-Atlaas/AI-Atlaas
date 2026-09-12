@@ -496,6 +496,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)  
    GPT Pilot aims to research how much LLMs can be utilized to generate fully working, production-ready apps while the developer oversees the implementation.
 
+- [YYLO](https://github.com/yylo-dev/yylo)  
+   Open-source command-line orchestrator for coding agents (Claude Code, Codex, Gemini CLI) with Kanban-driven tasks, parallel git worktrees, and typed merge flows.
+
 #### Site & App Builder
 
 - [V0.dev](https://v0.dev/)  
