@@ -723,6 +723,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [ChatBase](https://www.chatbase.co)  
    Build a custom GPT, embed it on your website and let it handle customer support, lead generation, engage with your users, and more.
 
+- [Asyntai](https://asyntai.com)  
+   AI chatbot for your website that answers visitors from your own pages, documents and products, captures leads, and hands the chat to a human when needed.
+
 ---
 
 ### 📱 Social Media Tools
