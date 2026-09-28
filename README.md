@@ -217,6 +217,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Graphic.so](https://graphic.so)  
    Graphic.so is a multi-modal AI playground to build your AI apps and automations 10x faster with a natural language interface.
 
+- [kdpbook.io](https://kdpbook.io)  
+   Vibe publishing for Amazon KDP: describe a book in a chat and get it written, illustrated and typeset, with the print PDF, full-wrap cover, Kindle eBook and listing ready to upload. 2,000 free credits at signup, no card.
+
 #### Image Generator
 
 - [Midjourney](https://www.midjourney.com/)  
