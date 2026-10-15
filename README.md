@@ -1378,6 +1378,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ### 📋 Directories & Communities
 
+- [AI Tools Radar](https://aitoolsradar.com/)  
+   Multilingual AI tools directory and editorial platform for discovering and comparing AI products, with models, agent skills, prompts, industry news, and newsletters.
+
 - [THERE'S AN AI FOR THAT](https://theresanaiforthat.com/)  
    There is an ai for that list.
 
