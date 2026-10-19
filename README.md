@@ -723,6 +723,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [ChatBase](https://www.chatbase.co)  
    Build a custom GPT, embed it on your website and let it handle customer support, lead generation, engage with your users, and more.
 
+- [Pulse](https://pulsecorp.co)  
+   AI-moderated market research platform that runs customer interviews at scale.
+
 ---
 
 ### 📱 Social Media Tools
