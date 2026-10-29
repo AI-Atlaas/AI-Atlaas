@@ -217,6 +217,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Graphic.so](https://graphic.so)  
    Graphic.so is a multi-modal AI playground to build your AI apps and automations 10x faster with a natural language interface.
 
+- [QuestStudio](https://queststudio.io/)  
+   Browser-based creative workspace for AI image, video, voice, and music generation, with prompting and editing tools. Paid subscription with a 7-day, 100-credit trial; a credit card is required.
+
 #### Image Generator
 
 - [Midjourney](https://www.midjourney.com/)  
