@@ -780,6 +780,11 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Explainpaper](https://www.explainpaper.com/)  
    Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
 
+- [Coda One](https://www.codaone.ai/)  
+   Free AI detector with no daily limit and no signup, plus an AI humanizer, rewriter and grammar checker.
+
+
+
 ---
 
 ### 🩺 Health & Wellbeing
