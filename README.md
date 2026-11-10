@@ -783,8 +783,6 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Coda One](https://www.codaone.ai/)  
    Free AI detector with no daily limit and no signup, plus an AI humanizer, rewriter and grammar checker.
 
-
-
 ---
 
 ### 🩺 Health & Wellbeing
