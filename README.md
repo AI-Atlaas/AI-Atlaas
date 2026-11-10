@@ -149,6 +149,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Remio](https://remio.ai/)  
    Remio is a local-first AI memory and knowledge base desktop app that captures and searches files, webpages, recordings, emails, messages, images, and notes with local indexes and vectors, helping agents retrieve context faster while reducing token use.
+
+- [Prompt Generator](https://trypromptgenerator.com/)  
+   Free prompt generator that writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more. 10 free prompts a day without an account, paid plans from $9/month.
 ---
 
 ### 🎧 Text to Speech
