@@ -223,6 +223,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [QuestStudio](https://queststudio.io/)  
    Browser-based creative workspace for AI image, video, voice, and music generation, with prompting and editing tools. Paid subscription with a 7-day, 100-credit trial; a credit card is required.
 
+- [kdpbook.io](https://kdpbook.io)  
+   Vibe publishing for Amazon KDP: describe a book in a chat and get it written, illustrated and typeset, with the print PDF, full-wrap cover, Kindle eBook and listing ready to upload. 2,000 free credits at signup, no card.
+
 #### Image Generator
 
 - [Midjourney](https://www.midjourney.com/)  
