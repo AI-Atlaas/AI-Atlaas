@@ -421,8 +421,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
    Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music.
 
 - [Designhome](https://designhome.co/)  
-   Create wonderful floor plans and complete home designs on one platform using AI
+   Create wonderful floor plans and complete home designs on one platform using AI.
 
+---
 
 ### 🪛 Engineering
 
