@@ -370,7 +370,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Kling AI](https://www.klingai.com)  
    KLING AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.
 
-- [Magic Hour](https://magichour.ai/)
+- [Magic Hour](https://magichour.ai/)  
    Create AI videos and images with tools for text-to-video, image-to-video, face swap, lip sync, and video-to-video.
 
 #### Modeling & 3D
@@ -1411,3 +1411,4 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 ---
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
+
