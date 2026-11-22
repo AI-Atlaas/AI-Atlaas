@@ -843,6 +843,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Totur GPT](https://github.com/plastic-labs/tutor-gpt)  
    Tutor-GPT is an LLM powered learning companion. It dynamically reasons about your learning needs and updates its own prompts to best serve you.
 
+- [StudyArena](https://studyarena.com)  
+   Compare three AI explanations for the same study question, vote for the most helpful answer, then reveal the models. The free plan requires an account.
+
 ---
 
 ### 🔮 Open-source & Self-hosted
