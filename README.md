@@ -149,6 +149,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Remio](https://remio.ai/)  
    Remio is a local-first AI memory and knowledge base desktop app that captures and searches files, webpages, recordings, emails, messages, images, and notes with local indexes and vectors, helping agents retrieve context faster while reducing token use.
+
+- [Prompt Generator](https://trypromptgenerator.com/)  
+   Free prompt generator that writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more. 10 free prompts a day without an account, paid plans from $9/month.
 ---
 
 ### 🎧 Text to Speech
@@ -216,6 +219,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Graphic.so](https://graphic.so)  
    Graphic.so is a multi-modal AI playground to build your AI apps and automations 10x faster with a natural language interface.
+
+- [QuestStudio](https://queststudio.io/)  
+   Browser-based creative workspace for AI image, video, voice, and music generation, with prompting and editing tools. Paid subscription with a 7-day, 100-credit trial; a credit card is required.
+
+- [kdpbook.io](https://kdpbook.io)  
+   Vibe publishing for Amazon KDP: describe a book in a chat and get it written, illustrated and typeset, with the print PDF, full-wrap cover, Kindle eBook and listing ready to upload. 2,000 free credits at signup, no card.
 
 #### Image Generator
 
@@ -419,6 +428,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Suno](https://suno.com/)  
    Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music.
+
+- [Designhome](https://designhome.co/)  
+   Create wonderful floor plans and complete home designs on one platform using AI.
 
 ---
 
@@ -723,6 +735,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [ChatBase](https://www.chatbase.co)  
    Build a custom GPT, embed it on your website and let it handle customer support, lead generation, engage with your users, and more.
 
+- [Pulse](https://pulsecorp.co)  
+   AI-moderated market research platform that runs customer interviews at scale.
+
 - [Asyntai](https://asyntai.com)  
    AI chatbot for your website that answers visitors from your own pages, documents and products, captures leads, and hands the chat to a human when needed.
 
@@ -782,6 +797,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Explainpaper](https://www.explainpaper.com/)  
    Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+
+- [Coda One](https://www.codaone.ai/)  
+   Free AI detector with no daily limit and no signup, plus an AI humanizer, rewriter and grammar checker.
 
 ---
 
@@ -1383,6 +1401,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [THERE'S AN AI FOR THAT](https://theresanaiforthat.com/)  
    There is an ai for that list.
+
+- [RespawnStack](https://respawnstack.com/)  
+   Curated AI tools directory for game developers.
 
 - [Hugging Face](https://huggingface.co/)  
    The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
