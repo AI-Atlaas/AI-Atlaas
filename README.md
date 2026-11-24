@@ -1132,6 +1132,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [RunPod](https://www.runpod.io/)  
    Globally distributed GPU cloud built for production. Develop, train, and scale AI applications.
 
+- [Apidly Cloud](https://apidly.com/)  
+   Managed GPU servers and serverless GPU endpoints for AI, with ready-made templates and per-second billing.
+
 - [Lightning](https://lightning.ai/)  
    Code together. Prototype. Train. Deploy. Host AI web apps. From your browser - with zero setup.
    Lightning AI introduces a paradigm shift to AI development. Studio integrates your favorite ML tools into a single cohesive experience. It also eliminates the environment discrepancy between local code which runs on the cloud. This allows for trivial multi-node, scalable AI web apps, endpoints and more.
