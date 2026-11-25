@@ -1167,6 +1167,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [DIAMOND](https://diamond-wm.github.io)  
    DIAMOND 💎 (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained entirely in a diffusion world model.
 
+- [Sammi](https://sammiai.app/)  
+   Android app for fictional-character text and voice chat, character customization, and creative roleplay.
+
 ---
 
 ### 🚙 Automations & Agents
