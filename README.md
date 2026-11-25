@@ -382,6 +382,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Magic Hour](https://magichour.ai/)  
    Create AI videos and images with tools for text-to-video, image-to-video, face swap, lip sync, and video-to-video.
 
+- [FastScribe](https://fastscribe.org/)
+   Transcribes recorded video and audio into editable text with speaker labels and exports timestamped subtitles as SRT files.
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
