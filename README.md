@@ -308,6 +308,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Roblox GUI Maker](https://robloxguimaker.dev/)
    Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 
+- [Kite](https://kite.new)  
+   Kite is a design tool your AI agents and your team share. Claude, ChatGPT, Cursor or Codex connect through a hosted MCP server and draw real, editable layers in the same file your team edits live.
+
 #### Viedo & Multi-Media
 
 - [Runway](https://runwayml.com/)  
