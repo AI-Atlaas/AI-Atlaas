@@ -806,6 +806,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [OpenBB](https://openbb.co/)  
    OpenBB provides innovative, customizable, AI-powered solutions for analysts, quants, and other finance professionals. With a commitment to open-source development and user-centric design, OpenBB is redefining the status quo of investment research.
 
+- [FlowFeed](https://flowfeed.cc)  
+   Real-time macro, forex and crypto news, an economic calendar and central bank releases for AI assistants like Claude, ChatGPT and Cursor, via a hosted MCP server (paid).
+
 ---
 
 ### 🔬 Research & Academic
