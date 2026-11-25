@@ -756,6 +756,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Pulse](https://pulsecorp.co)  
    AI-moderated market research platform that runs customer interviews at scale.
 
+- [QuestionPunk](https://www.questionpunk.com/)  
+   Survey builder that also runs AI-moderated voice and chat interviews, which ask follow-up questions, with response reports and cross-tabs.
+
 - [Asyntai](https://asyntai.com)  
    AI chatbot for your website that answers visitors from your own pages, documents and products, captures leads, and hands the chat to a human when needed.
 
