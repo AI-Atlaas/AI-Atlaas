@@ -622,6 +622,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [bugfree.ai](https://bugfree.ai/)  
    An advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI-powered mock interviews.
 
+- [Interview Copilot](https://theinterviewcopilot.com/)  
+   Desktop app (macOS, Windows, Linux) that transcribes the interviewer from system audio in real time and shows short, structured answers in an overlay; also solves coding tasks from a screenshot. Free plan available.
+
 ---
 
 ### 📊 Data & Monitoring
