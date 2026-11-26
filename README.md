@@ -1177,6 +1177,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [XMACNA Funcionarios Digitais](https://xmacna.ai/)
    AI/IA-powered Funcionarios Digitais for WhatsApp, phone, CRM updates, lead qualification, follow-up, and human handoff.
 
+- [Scalekit](https://www.scalekit.com/)  
+   AI agent integrations platform and MCP gateway that connects AI agents to 1,100+ apps and 55,000+ tools, with each call made on behalf of the end user, tools scoped per agent and every call logged.
+
 ---
 
 ### ⚙️ AI Tools
