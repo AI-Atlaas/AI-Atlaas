@@ -223,6 +223,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [QuestStudio](https://queststudio.io/)  
    Browser-based creative workspace for AI image, video, voice, and music generation, with prompting and editing tools. Paid subscription with a 7-day, 100-credit trial; a credit card is required.
 
+- [Seedance AI Video Generator](https://www.seeddance.io/)  
+   Browser-based AI video generator that runs Seedance 2.5 and other video models. The first clip is free with no login; paid plans add credits and higher resolutions.
+
 - [kdpbook.io](https://kdpbook.io)  
    Vibe publishing for Amazon KDP: describe a book in a chat and get it written, illustrated and typeset, with the print PDF, full-wrap cover, Kindle eBook and listing ready to upload. 2,000 free credits at signup, no card.
 
