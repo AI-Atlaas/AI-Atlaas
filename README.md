@@ -1052,6 +1052,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Meta Lingua](https://github.com/facebookresearch/lingua)  
    Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 
+- [MartLLM](https://martllm.com/)  
+   One OpenAI- and Anthropic-compatible API for text, image, video, music and speech models from many providers.
+
 ---
 
 ### 📒 Libraries
