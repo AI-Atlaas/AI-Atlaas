@@ -769,6 +769,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Postiz](https://postiz.com/)  
    Postiz offers everything you need to manage your social media posts, build an audience, capture leads, and grow your business.
 
+- [Tweenery](https://tweenery.com/)  
+   Tweenery is an AI agent that turns an idea or a post you like into a ready-to-post Instagram carousel or TikTok slideshow. Free plan available.
+
 ---
 
 ### 💸 Crypto
