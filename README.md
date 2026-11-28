@@ -103,6 +103,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [You.com](https://you.com)  
    Leverage a personal AI search agent & customized recommendations with You.com's AI chatbot. Converse naturally and discover the power of AI. 
 
+- [Whizi](https://whizi.io)  
+   Chat with GPT, Claude, Gemini, Grok, DeepSeek and 280+ AI models in one app, with image and video generation, chat with files and deep research. Paid, with a free trial; on web, iOS and Android.
+
 ---
 
 ### 🎯 Productivity
