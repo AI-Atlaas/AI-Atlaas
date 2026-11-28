@@ -622,6 +622,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [bugfree.ai](https://bugfree.ai/)  
    An advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI-powered mock interviews.
 
+- [Aethel](https://aethel.pro/practice)  
+   Free interview practice for developers and other roles: pick a role and level, answer, and get an instant check that quotes your own words, with optional AI feedback. No account needed.
+
 ---
 
 ### 📊 Data & Monitoring
